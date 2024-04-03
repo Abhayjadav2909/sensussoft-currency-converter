@@ -1,0 +1,26 @@
+{
+  "name": "sensussoft-currency-converter",
+  "version": "1.0.0",
+  "description": "package use for convert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhayjadav2909/sensussoft-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Abhay Jadav",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Abhayjadav2909/sensussoft-currency-converter/issues"
+  },
+  "homepage": "https://github.com/Abhayjadav2909/sensussoft-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
