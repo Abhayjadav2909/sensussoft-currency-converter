@@ -1,6 +1,5 @@
 import Freecurrencyapi from '@everapi/freecurrencyapi-js';
 
-
 const freecurrencyapi = new Freecurrencyapi('fca_live_CsB5hILgq1oHtp7mXbyNgSbWgPyPbtzaWjKaIW1J');
 
 convertCurrency("INR","USD",3);
